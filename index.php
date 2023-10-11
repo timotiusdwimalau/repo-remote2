@@ -6,7 +6,8 @@
     <title>Upload repo ke Github</title>
 </head>
 <body>
-    <h1>Upload Repo</h1>
+    <h2>Upload Repo</h2>
+    <p>Try repo remote 2</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error a necessitatibus, laudantium saepe quae eveniet!</p>
 </body>
 </html>
